@@ -20,7 +20,7 @@ style = ["Art Nouveau"]
 [sub.abstract]
 name = "Abstract"
 description = "Geometric or fluid, non-literal, emotional or spiritual expression via pure color/form.."
-sort_order -450
+sort_order = 450
 
 [sub.abstract.criteria]
 style = ["Abstract"]
